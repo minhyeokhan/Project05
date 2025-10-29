@@ -4,3 +4,4 @@ Team Leader: <20221081>
 Project 05 version1 completed
  “2nd Team Member: <손세광>”
  2nd Team Member: <20221054>
+“Project 05 version2 completed
